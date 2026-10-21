@@ -13,6 +13,10 @@
 
 Every product has a 14-day free trial, in English and বাংলা. See [pricing](https://www.nodibyte.com/pricing).
 
+## Open source
+
+- [`@nodibyte/bd-utils`](https://github.com/nodibyte/bd-utils): Bangladeshi mobile number validation and Bangla digit parsing. Zero dependencies. `npm i @nodibyte/bd-utils`
+
 ## Partners
 
 Refer shops and earn 20% of their payments for 12 months: [nodibyte.com/partners](https://www.nodibyte.com/partners).
