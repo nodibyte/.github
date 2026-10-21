@@ -1,4 +1,4 @@
-# Nodibyte
+[![Nodibyte: Less busywork. More business.](banner.png)](https://www.nodibyte.com)
 
 **AI automation and business software for Bangladesh.** We map how a business really works, then connect its tools into simple, automated systems: listen deeply, build simply, keep evolving.
 
